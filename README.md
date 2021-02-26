@@ -1,1 +1,1 @@
-  
+Este repositorio tiene como finalidad proporcionar material soporte de la asignatura MdA. No es material oficial de la catedra, son resumenes de estudiantes y como tal, no deben ser distribuidos ni publicados bajo ningun termino.
